@@ -1,2 +1,4 @@
 Yola
 Hi
+Привет
+Salam
