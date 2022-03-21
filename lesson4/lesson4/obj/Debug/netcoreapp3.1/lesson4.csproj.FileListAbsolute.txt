@@ -1,0 +1,13 @@
+C:\Users\Ильнур\Desktop\Git check\lesson4\lesson4\obj\Debug\netcoreapp3.1\lesson4.csprojAssemblyReference.cache
+C:\Users\Ильнур\Desktop\Git check\lesson4\lesson4\obj\Debug\netcoreapp3.1\lesson4.AssemblyInfoInputs.cache
+C:\Users\Ильнур\Desktop\Git check\lesson4\lesson4\obj\Debug\netcoreapp3.1\lesson4.AssemblyInfo.cs
+C:\Users\Ильнур\Desktop\Git check\lesson4\lesson4\obj\Debug\netcoreapp3.1\lesson4.csproj.CoreCompileInputs.cache
+C:\Users\Ильнур\Desktop\Git check\lesson4\lesson4\bin\Debug\netcoreapp3.1\lesson4.exe
+C:\Users\Ильнур\Desktop\Git check\lesson4\lesson4\bin\Debug\netcoreapp3.1\lesson4.deps.json
+C:\Users\Ильнур\Desktop\Git check\lesson4\lesson4\bin\Debug\netcoreapp3.1\lesson4.runtimeconfig.json
+C:\Users\Ильнур\Desktop\Git check\lesson4\lesson4\bin\Debug\netcoreapp3.1\lesson4.runtimeconfig.dev.json
+C:\Users\Ильнур\Desktop\Git check\lesson4\lesson4\bin\Debug\netcoreapp3.1\lesson4.dll
+C:\Users\Ильнур\Desktop\Git check\lesson4\lesson4\bin\Debug\netcoreapp3.1\lesson4.pdb
+C:\Users\Ильнур\Desktop\Git check\lesson4\lesson4\obj\Debug\netcoreapp3.1\lesson4.dll
+C:\Users\Ильнур\Desktop\Git check\lesson4\lesson4\obj\Debug\netcoreapp3.1\lesson4.pdb
+C:\Users\Ильнур\Desktop\Git check\lesson4\lesson4\obj\Debug\netcoreapp3.1\lesson4.genruntimeconfig.cache
