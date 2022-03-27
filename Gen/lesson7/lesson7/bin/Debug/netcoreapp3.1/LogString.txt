@@ -1,0 +1,3 @@
+[Info]: [String] : Привет мир
+[Warning]: [String] : Предупреждение
+[Error] : [String] : Oшибка. Value cannot be null.

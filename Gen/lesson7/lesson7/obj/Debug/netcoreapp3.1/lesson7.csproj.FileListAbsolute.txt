@@ -1,0 +1,13 @@
+C:\Users\Ильнур\Desktop\Git check\Gen\lesson7\lesson7\bin\Debug\netcoreapp3.1\lesson7.exe
+C:\Users\Ильнур\Desktop\Git check\Gen\lesson7\lesson7\bin\Debug\netcoreapp3.1\lesson7.deps.json
+C:\Users\Ильнур\Desktop\Git check\Gen\lesson7\lesson7\bin\Debug\netcoreapp3.1\lesson7.runtimeconfig.json
+C:\Users\Ильнур\Desktop\Git check\Gen\lesson7\lesson7\bin\Debug\netcoreapp3.1\lesson7.runtimeconfig.dev.json
+C:\Users\Ильнур\Desktop\Git check\Gen\lesson7\lesson7\bin\Debug\netcoreapp3.1\lesson7.dll
+C:\Users\Ильнур\Desktop\Git check\Gen\lesson7\lesson7\bin\Debug\netcoreapp3.1\lesson7.pdb
+C:\Users\Ильнур\Desktop\Git check\Gen\lesson7\lesson7\obj\Debug\netcoreapp3.1\lesson7.csprojAssemblyReference.cache
+C:\Users\Ильнур\Desktop\Git check\Gen\lesson7\lesson7\obj\Debug\netcoreapp3.1\lesson7.AssemblyInfoInputs.cache
+C:\Users\Ильнур\Desktop\Git check\Gen\lesson7\lesson7\obj\Debug\netcoreapp3.1\lesson7.AssemblyInfo.cs
+C:\Users\Ильнур\Desktop\Git check\Gen\lesson7\lesson7\obj\Debug\netcoreapp3.1\lesson7.csproj.CoreCompileInputs.cache
+C:\Users\Ильнур\Desktop\Git check\Gen\lesson7\lesson7\obj\Debug\netcoreapp3.1\lesson7.dll
+C:\Users\Ильнур\Desktop\Git check\Gen\lesson7\lesson7\obj\Debug\netcoreapp3.1\lesson7.pdb
+C:\Users\Ильнур\Desktop\Git check\Gen\lesson7\lesson7\obj\Debug\netcoreapp3.1\lesson7.genruntimeconfig.cache

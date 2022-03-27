@@ -1,0 +1,3 @@
+[Info]: [People] : Привет мир
+[Warning]: [People] : Предупреждение
+[Error] : [People] : Oшибка. Object reference not set to an instance of an object.
