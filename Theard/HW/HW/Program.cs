@@ -7,19 +7,11 @@ namespace HW
     class Program
     {
         public static void Main(string[] args)
-        {   string request ;
+        {  
             var requestHandler = new DummyRequestHandler();
 
-            Console.WriteLine("Введите текст запроса для отправки. " + "Для выхода введите /exit \n");            
-            while ((request = Console.ReadLine()) != "/exit")
-            {
-                NewRequest(request);
-                Console.WriteLine("Введите текст запроса для отправки. " + "Для выхода введите /exit \n");
-            }
-            Console.WriteLine("Конец работы " );
-
             void NewRequest(string message)
-            {
+            {  
                 Console.WriteLine($"Будет послано сообщение {message} \n");
                 Console.WriteLine("Введите аргументы сообщения. Если аргументы не нужны " + "- введите /end \n");
                 var args = new List<string>();
@@ -31,7 +23,6 @@ namespace HW
                 }
                 var id = Guid.NewGuid().ToString("D");
                 Console.WriteLine($"Было отправлено сообщение \"{message}\". " + $"Присвоен идентификатор {id} \n");
-
                 ThreadPool.QueueUserWorkItem(_ =>HandleRequest(id, message, args.ToArray()));
             }
 
@@ -47,6 +38,15 @@ namespace HW
                     Console.WriteLine($"Сообщение с идентификатором {id} " + $"упало с ошибкой: {ex.Message} \n");
                 }
             }
+            
+            string request ;
+            Console.WriteLine("Введите текст запроса для отправки. " + "Для выхода введите /exit \n");            
+            while ((request = Console.ReadLine()) != "/exit")
+            {
+                NewRequest(request);
+                Console.WriteLine("Введите текст запроса для отправки. " + "Для выхода введите /exit \n");
+            }
+            Console.WriteLine("Конец работы " );
         }
     }
 }
